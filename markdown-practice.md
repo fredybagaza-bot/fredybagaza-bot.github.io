@@ -32,8 +32,9 @@ MY WEBSITE (https://imurenge.com)
 - Task two
 - Task five
 ## Tables 
-- | Task four   | Role      |   |
-|---------|-----------|----------|
+
+| Task four   | Role  | status  |
+ 
 | bagaza| Developer | canva    |
 | David  | Designer  | Gemini   |
 | Juster | designer |  CHAgpt

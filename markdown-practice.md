@@ -34,9 +34,9 @@ MY WEBSITE (https://imurenge.com)
 ## Tables 
 | Name    | Role      | Status   |
 |---------|-----------|----------|
-| Alice   | Developer | Active   |
-| Bob     | Designer  | Active   |
-| Charlie | Tester    | On leave |
+| bagaza | Designer| Active   |
+| david    | Designer  | Active   |
+| Juster | Tester    | On leave |
 
 ## Task Lists (checkboxes)
 -  Completed task 1,2,3

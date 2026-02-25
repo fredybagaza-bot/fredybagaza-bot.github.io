@@ -32,12 +32,11 @@ MY WEBSITE (https://imurenge.com)
 - Task two
 - Task five
 ## Tables 
-
-| Task four   | Role  | status  |,.
- 
-| bagaza| Developer | canva    |,.
-| David  | Designer  | Gemini   |,.
-| Juster | designer |  CHAgpt,.
+| Name    | Role      | Status   |
+|---------|-----------|----------|
+| Alice   | Developer | Active   |
+| Bob     | Designer  | Active   |
+| Charlie | Tester    | On leave |
 
 ## Task Lists (checkboxes)
 -  Completed task 1,2,3

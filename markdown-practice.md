@@ -2,10 +2,21 @@
 ## My Learning Goals 
 ### this Semester
 
-**push until something happen**
-*you are holly, lamb of Gog*
-~~wow its AMEZING~~
-`TECHNOLOGIA`
+**Son of God sign by benjamin Dube**
+*You are holy, holy, you are holy
+You are holy, holy, you are holy
+Lamb of God sitteth at the right hand of the father
+You are holy, holy, you are holy
+Lamb of God sitteth at the right hand of the father You are holy, holy, you are holy*
+
+~~You are holy, holy, you are holy
+You are holy, holy, you are holy
+Lamb of God sitteth at the right hand of the father
+You are holy, holy, you are holy
+Lamb of God sitteth at the right hand of the father
+You are holy, holy, you are holy~~
+
+
 MY WEBSITE (https://imurenge.com)
 !some imege(https://share.google/060jQO9orNbWt5Xg6)
 

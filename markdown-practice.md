@@ -33,11 +33,11 @@ MY WEBSITE (https://imurenge.com)
 - Task five
 ## Tables 
 
-| Task four   | Role  | status  |
+| Task four   | Role  | status  |,.
  
-| bagaza| Developer | canva    |
-| David  | Designer  | Gemini   |
-| Juster | designer |  CHAgpt
+| bagaza| Developer | canva    |,.
+| David  | Designer  | Gemini   |,.
+| Juster | designer |  CHAgpt,.
 
 ## Task Lists (checkboxes)
 -  Completed task 1,2,3

@@ -39,7 +39,7 @@ MY WEBSITE (https://imurenge.com)
 | Juster | Tester    | On leave |
 
 ## Task Lists (checkboxes)
--  Completed task 1,2,3
-      Incomplete task 4,5
--  Another task to do 
+- [x] Completed task 1,2,3
+- [ ] Incomplete task 4&5
+- [ ] Another task to do
 
